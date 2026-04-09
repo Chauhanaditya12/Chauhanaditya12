@@ -1,66 +1,95 @@
 <div align="center">
 
-  <!-- Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=300&section=header&text=Aditya%20Chauhan&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Third%20Year%20CSE%20%7C%20Aspiring%20Software%20Developer%20%7C%20Tech%20Learner&descAlignY=55&fontColor=ffffff" />
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=300&section=header&text=Aditya%20Chauhan&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Third%20Year%20CSE%20%7C%20Full%20Stack%20%7C%20AI%2FML%20%7C%20DevOps&descAlignY=55&fontColor=ffffff" />
 
-  <!-- Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Development+Enthusiast;Backend+%26+DevOps+Learner;DSA+%7C+Cloud+%7C+Problem+Solving;Always+Learning+New+Things" />
-  </a>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI%2FML+%7C+DevOps+Enthusiast;DSA+%7C+Cloud+%7C+Problem+Solving;Building+Scalable+Projects" />
 
 </div>
 
 ---
 
-## About Me
-▸ Third-Year Computer Science Engineering Student  
-▸ Interested in **Software Development, Backend, Data & DevOps**  
-▸ Exploring **Cloud technologies & scalable systems**  
-▸ Practicing **DSA and real-world problem solving**  
-▸ Focused on **continuous learning and improvement**
-
-<img align="right" alt="Developer coding illustration" width="380"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+# 👨‍💻 About Me
+- 🎓 Third-Year Computer Science Engineering Student  
+- 💻 Passionate about **Full Stack Development & Backend Systems**  
+- 🤖 Exploring **AI/ML & Cloud Technologies**  
+- ⚙️ Learning **DevOps (Docker, CI/CD, Deployment)**  
+- 🧠 Strong focus on **DSA & Problem Solving**  
+- 🚀 Love building **real-world scalable projects**
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=airabhiii&label=Profile%20views&color=0e75b6&style=flat" alt="Chauhanaditya12" />
-</p>
-
----
-
-## How to Reach Me
-▸ Email: **chauhanaditya1201@gmail.com**
-
----
-
-## 🌐 Let's Connect
-
-💡 Aditya Chauhan | Full Stack Developer | AI/ML | DevOps  
-⚙️ Building Scalable Systems | DSA Enthusiast  
-🚀 Hackathon Builder | Open to Opportunities  
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/aditya-chauhan-82ba26252/" target="_blank" title="LinkedIn">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,mysql,docker,git,github,linux,aws" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chauhanaditya12&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chauhanaditya12&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/adityachauhan12?theme=dark&font=baloo&border=0" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aditya-chauhan-82ba26252/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="45" />
 </a>
 
-<a href="https://github.com/Chauhanaditya12" target="_blank" title="GitHub">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
+<a href="https://github.com/Chauhanaditya12" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" width="45" />
 </a>
 
-<a href="https://leetcode.com/u/adityachauhan12/" target="_blank" title="LeetCode">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+<a href="https://leetcode.com/u/adityachauhan12/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="45" />
 </a>
 
 </p>
 
-🚀 Let's build scalable, impactful solutions together!
 ---
 
-## Thanks for Visiting!
-Feel free to explore my repositories and connect with me 🤝
+# 🔥 Current Focus
+- 🚀 Building **Full Stack + AI Projects**
+- ⚙️ Learning **DevOps & Cloud Deployment**
+- 🧠 Practicing **DSA daily**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=1)
+---
+
+# 🎯 Goals 2026
+- ✅ Crack top product-based company  
+- ✅ Contribute to open source  
+- ✅ Build impactful real-world projects  
+
+---
+
+# 🧩 Fun Fact
+💡 I turn ideas into scalable tech solutions 🚀
+
+---
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=150&section=footer"/>
