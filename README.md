@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=300&section=header&text=Abhishek%20Sutrave&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Final%20Year%20CSE%20%7C%20Aspiring%20Software%20Developer%20%7C%20Tech%20Learner&descAlignY=55&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=300&section=header&text=Aditya%20Chauhan&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Final%20Year%20CSE%20%7C%20Aspiring%20Software%20Developer%20%7C%20Tech%20Learner&descAlignY=55&fontColor=ffffff" />
 
   <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
@@ -13,7 +13,7 @@
 ---
 
 ## About Me
-▸ Final-Year Computer Science Engineering Student  
+▸ Third-Year Computer Science Engineering Student  
 ▸ Interested in **Software Development, Backend, Data & DevOps**  
 ▸ Exploring **Cloud technologies & scalable systems**  
 ▸ Practicing **DSA and real-world problem solving**  
@@ -25,17 +25,39 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=airabhiii&label=Profile%20views&color=0e75b6&style=flat" alt="airabhiii" />
+  <img src="https://komarev.com/ghpvc/?username=airabhiii&label=Profile%20views&color=0e75b6&style=flat" alt="Chauhanaditya12" />
 </p>
 
 ---
 
 ## How to Reach Me
-▸ Email: **abhisheksutrave1824@gmail.com**
+▸ Email: **chauhanaditya1201@gmail.com**
 
 ---
 
-## Connect With Me <p align="left"> <a href="https://leetcode.com/u/Abhisheksutrave__/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /> </a> <a href="https://www.linkedin.com/in/abhishek-sutrave-81bb90287/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" /> </a> <a href="https://www.kaggle.com/abhisheksutrave11122" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" width="40" /> </a> <a href="https://unstop.com/u/abhissut1432" target="_blank"> <img align="center" src="https://digitomize.com/assets/unstop-5291dc29.png" height="30" width="40" /> </a> </p>
+## 🌐 Let's Connect
+
+💡 Aditya Chauhan | Full Stack Developer | AI/ML | DevOps  
+⚙️ Building Scalable Systems | DSA Enthusiast  
+🚀 Hackathon Builder | Open to Opportunities  
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aditya-chauhan-82ba26252/" target="_blank" title="LinkedIn">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+</a>
+
+<a href="https://github.com/Chauhanaditya12" target="_blank" title="GitHub">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/adityachauhan12/" target="_blank" title="LeetCode">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+
+</p>
+
+🚀 Let's build scalable, impactful solutions together!
 ---
 
 ## Thanks for Visiting!
