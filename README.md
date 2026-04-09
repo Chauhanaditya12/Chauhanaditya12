@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=300&section=header&text=Aditya%20Chauhan&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Final%20Year%20CSE%20%7C%20Aspiring%20Software%20Developer%20%7C%20Tech%20Learner&descAlignY=55&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=300&section=header&text=Aditya%20Chauhan&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Third%20Year%20CSE%20%7C%20Aspiring%20Software%20Developer%20%7C%20Tech%20Learner&descAlignY=55&fontColor=ffffff" />
 
   <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
@@ -63,4 +63,4 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 ## Thanks for Visiting!
 Feel free to explore my repositories and connect with me 🤝
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=1
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=1)
